@@ -2,4 +2,5 @@
 *.pdf
 *.aux
 *.log
-node_modules/
+tex/
+frames/
