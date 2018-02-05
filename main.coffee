@@ -15,7 +15,7 @@ firstFreeze = 100 # how long to freeze the first frame
 lastFreeze  = 100 # how long to freeze the last frame
 
 # ------------------------------------------------------------------------------
-# DON'T FUCK WITH THE CODE BELOW UNLESS YOU KNOW WHAT YOU'RE DOING.
+# DON'T TOUCH THE CODE BELOW UNLESS YOU KNOW WHAT YOU'RE DOING.
 # ------------------------------------------------------------------------------
 
 fs = require 'fs'
